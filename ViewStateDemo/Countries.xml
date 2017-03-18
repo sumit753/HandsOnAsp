@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<countries>
+  <country>
+    <countryId>1</countryId>
+    <countryName>India</countryName>
+  </country>
+  <country>
+    <countryId>2</countryId>
+    <countryName>Australia</countryName>
+  </country>
+  <country>
+    <countryId>3</countryId>
+    <countryName>Argentina</countryName>
+  </country>
+  <country>
+    <countryId>4</countryId>
+    <countryName>America</countryName>
+  </country>
+  <country>
+    <countryId>5</countryId>
+    <countryName>China</countryName>
+  </country>
+
+</countries>
